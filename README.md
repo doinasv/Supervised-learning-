@@ -5,6 +5,7 @@ This project benchmarks supervised learning models to predict loan default risk 
 
 ### 📂 Dataset
 Source: Kaggle – Retail Bank Loan Dataset
+ https://www.kaggle.com/datasets/qusaybtoush1990/machine-learning/data
 
 Target Variable: bad_loan (1 = defaulted, 0 = paid)
 
