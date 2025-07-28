@@ -1,4 +1,5 @@
-🏦 # Predicting Loan Default Risk with Supervised Learning
+🏦
+## Predicting Loan Default Risk with Supervised Learning
 This project benchmarks supervised learning models to predict loan default risk using a structured dataset. It compares model performance using real-world evaluation metrics and highlights the impact of class imbalance and resampling techniques.
 
 
